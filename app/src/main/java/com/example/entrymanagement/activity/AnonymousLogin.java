@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.app.Dialog;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 
 import com.example.entrymanagement.utils.CommonProgressDialog;
 import com.example.entrymanagement.R;
@@ -29,7 +30,7 @@ public class AnonymousLogin extends AppCompatActivity {
         setContentView(R.layout.activity_anonymous_login);
         mAuth = FirebaseAuth.getInstance();
         progressDialog = CommonProgressDialog.LoadingSpinner(AnonymousLogin.this);
-
+        Log.d("test","pass1");
 
     }
     @Override
@@ -42,15 +43,19 @@ public class AnonymousLogin extends AppCompatActivity {
                 try {
                     Thread.sleep(2000);
         FirebaseUser currentUser = mAuth.getCurrentUser();
+                    Log.d("test","pass2");
         if(currentUser != null){
+            Log.d("test","pass3");
             Intent intent = new Intent(AnonymousLogin.this, MainActivity.class);
             intent.putExtra("ID",mAuth.getCurrentUser().getUid());
             startActivity(intent);
             finish();
         }else{
             signIn();
+            Log.d("test","pass4");
         }} catch (Exception e) {
                     e.printStackTrace();
+                    Log.d("test","pass5");
                 }
             }
         });
@@ -58,13 +63,13 @@ public class AnonymousLogin extends AppCompatActivity {
 
     }
     public void signIn(){
-        progressDialog.show();
+       // progressDialog.show();
         mAuth.signInAnonymously()
                 .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
                     @Override
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if (task.isSuccessful()) {
-                            progressDialog.dismiss();
+                            //progressDialog.dismiss();
 
                             Intent intent = new Intent(AnonymousLogin.this,MainActivity.class);
                             intent.putExtra("ID", Objects.requireNonNull(Objects.requireNonNull(task.getResult()).getUser()).getUid());

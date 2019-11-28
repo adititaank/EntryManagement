@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
         visitorPhone = findViewById(R.id.visitor_phone);
         visitorEmail = findViewById(R.id.visitor_email);
         checkInButton = findViewById(R.id.check_in_button);
-        disableAutofill();
+        //disableAutofill();
 
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
@@ -106,10 +106,10 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    @TargetApi(Build.VERSION_CODES.O)
+    /*@TargetApi(Build.VERSION_CODES.O)
     private void disableAutofill() {
         getWindow().getDecorView().setImportantForAutofill(View.IMPORTANT_FOR_AUTOFILL_NO_EXCLUDE_DESCENDANTS);
-    }
+    }*/
 
     private void sendSms(){
         if (ContextCompat.checkSelfPermission(this,
