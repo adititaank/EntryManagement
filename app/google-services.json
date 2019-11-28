@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "747793535273",
+    "firebase_url": "https://innovacer-entry-management.firebaseio.com",
+    "project_id": "innovacer-entry-management",
+    "storage_bucket": "innovacer-entry-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747793535273:android:9e67e079faa7ee5f742738",
+        "android_client_info": {
+          "package_name": "com.example.entrymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747793535273-hiur981vrkes9t43js83t62ne5m6he02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.entrymanagement",
+            "certificate_hash": "029f8171dcaa83702540ca3cc1459aa2db94e5cc"
+          }
+        },
+        {
+          "client_id": "747793535273-c3hgu8eurlofu26r375alco5v03chl6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6dbg_iOl0vsnyEsBdv0IdDqAhD-_TyiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747793535273-c3hgu8eurlofu26r375alco5v03chl6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
