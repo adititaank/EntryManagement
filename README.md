@@ -13,12 +13,13 @@ I thought of this software as a simple entry management done at the gate entry. 
 
 ## Screenshots
 
-![innovacer1](https://user-images.githubusercontent.com/46107101/69843739-e2537e00-128e-11ea-80fd-916b904922f8.jpg)
-![innovacer2](https://user-images.githubusercontent.com/46107101/69843740-e2537e00-128e-11ea-8cea-cb2c2f0f438d.jpg)
-![innovacer3](https://user-images.githubusercontent.com/46107101/69843741-e2ec1480-128e-11ea-8af5-f102ebcf0c4a.jpg)
-![innovacer4](https://user-images.githubusercontent.com/46107101/69843742-e2ec1480-128e-11ea-8711-ee6b919889dc.jpg)
-![innovacer5](https://user-images.githubusercontent.com/46107101/69843743-e2ec1480-128e-11ea-9673-09278f9f5b82.jpg)
-![innovacer6](https://user-images.githubusercontent.com/46107101/69843744-e384ab00-128e-11ea-9314-8b99e496e2e7.jpg)
+![ino1](https://user-images.githubusercontent.com/46107101/69844573-df5a8c80-1292-11ea-87fd-a0849a780924.png)
+![ino2](https://user-images.githubusercontent.com/46107101/69844574-df5a8c80-1292-11ea-8889-1e43c65f13d8.png)
+![ino3](https://user-images.githubusercontent.com/46107101/69844575-df5a8c80-1292-11ea-81b8-664bb19402d3.png)
+![ino4](https://user-images.githubusercontent.com/46107101/69844576-dff32300-1292-11ea-9e1b-2406024da358.png)
+![ino5](https://user-images.githubusercontent.com/46107101/69844577-dff32300-1292-11ea-861d-696c9dd48f48.png)
+![ino6](https://user-images.githubusercontent.com/46107101/69844578-e08bb980-1292-11ea-8d39-cfb1d72012fd.png)
+![ino7](https://user-images.githubusercontent.com/46107101/69844598-f4372000-1292-11ea-88b9-7eacb47bba33.png)
 
 
 ## Database Structure
