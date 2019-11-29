@@ -10,6 +10,8 @@ Introduction-Entry Management Innovacer is a software biuld to manage the entrie
 ## Approach
 I thought of this software as a simple entry management done at the gate entry. The current way to make entry is to write your details and that of the host in a register while making an entry and signing that entry with your signature. I have tried to bring the same process in an application on which the visitor can easily make an entry.
 
+## Aplication Installation
+Clone the repo in your Android Studio and run it on an emulator or on your android device. You can also generate an APK from Android Studio and install it on any Android phone you want.
 
 ## Workflow
 ### 1. The app opens up with a splash screen showing the logo of Innovacer.
