@@ -42,3 +42,5 @@ I thought of this software as a simple entry management done at the gate entry. 
 ## Database Structure
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/46107101/69826659-22d4dc80-123a-11ea-9669-438696c8bb03.png)
+
+Note: You can change the testing email which sends mail automatically in Config file under utils package. Make sure to enable less secure apps to be able to send emails.
