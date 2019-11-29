@@ -13,12 +13,13 @@ I thought of this software as a simple entry management done at the gate entry. 
 
 ## Screenshots
 
-![innovacer1](https://user-images.githubusercontent.com/46107101/69842980-89ceb180-128b-11ea-95bc-66ecaaf8a21a.jpg){:height="24px" width="48px"}
-![innovacer2](https://user-images.githubusercontent.com/46107101/69842982-89ceb180-128b-11ea-9c14-eb8d2661984e.jpg){:height="24px" width="48px"}
-![innovacer3](https://user-images.githubusercontent.com/46107101/69842983-8a674800-128b-11ea-9d81-530d0eeb432c.jpg){:height="24px" width="48px"}
-![innovacer4](https://user-images.githubusercontent.com/46107101/69842985-8a674800-128b-11ea-92d2-c626341461fc.jpg){:height="24px" width="48px"}
-![innovacer5](https://user-images.githubusercontent.com/46107101/69842986-8a674800-128b-11ea-929c-ff8d0c5a4ec9.jpg){:height="24px" width="48px"}
-![innovacer6](https://user-{:height="24px" width="48px"}
+![innovacer1](https://user-images.githubusercontent.com/46107101/69842980-89ceb180-128b-11ea-95bc-66ecaaf8a21a.jpg)
+<img src="https://user-images.githubusercontent.com/46107101/69842980-89ceb180-128b-11ea-95bc-66ecaaf8a21a.jpg" width="48">
+![innovacer2](https://user-images.githubusercontent.com/46107101/69842982-89ceb180-128b-11ea-9c14-eb8d2661984e.jpg)
+![innovacer3](https://user-images.githubusercontent.com/46107101/69842983-8a674800-128b-11ea-9d81-530d0eeb432c.jpg)
+![innovacer4](https://user-images.githubusercontent.com/46107101/69842985-8a674800-128b-11ea-92d2-c626341461fc.jpg)
+![innovacer5](https://user-images.githubusercontent.com/46107101/69842986-8a674800-128b-11ea-929c-ff8d0c5a4ec9.jpg)
+![innovacer6](https://user-
 
 
 ## Database Structure
