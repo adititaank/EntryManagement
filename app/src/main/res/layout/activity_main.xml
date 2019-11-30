@@ -5,7 +5,7 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#f3e5f5"
+    android:background="#0A040A"
     tools:context=".activity.MainActivity">
 
     <ScrollView
@@ -195,13 +195,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
-                android:background="#DFD4E4"
+                android:background="#0A040A"
                 android:layout_below="@id/host_phone_layout"
                 android:drawableStart="@drawable/primary_check"
                 android:drawablePadding="8dp"
                 android:padding="10dp"
                 android:layout_marginTop="20dp"
-                android:text="Check in" />
+                android:text="Check in"
+                android:textColor="#FFF"/>
 
         </RelativeLayout>
 

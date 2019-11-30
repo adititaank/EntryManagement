@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"
-    android:background="#f3e5f5"
+    android:background="#0A040A"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".activity.CheckOutActivity">
